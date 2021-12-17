@@ -1,1 +1,1 @@
-# coms6998
+See readme.pdf
